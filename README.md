@@ -3,6 +3,17 @@
 ## Link para vídeo explicativo
    (https://youtu.be/RP7xxf2-40s?si=J5ymWG0I7MS6uT7J)
 
+---
+
+## Integrantes 
+
+Eduardo Fedeli Souza (RM550132)
+Gabriel Torres Luiz (RM98600)
+Murilo Henrique Obinata (RM99855)
+Otávio Vitoriano Da Silva (RM552012)
+
+---
+
 ## 🎯 Objetivo
 
 Este projeto tem como finalidade detectar automaticamente quando os olhos de uma pessoa permanecem fechados por mais de 2 segundos em um vídeo, utilizando apenas **Python + OpenCV**. Quando essa condição é atendida, o sistema envia uma **notificação por e-mail** via **Node-RED**.
