@@ -18,9 +18,9 @@ Este projeto tem como finalidade detectar automaticamente quando os olhos de uma
 
 ## 📁 Estrutura do Projeto
 
-  ├── video.mp4 # Vídeo de entrada 
-  ├── detector.py # Script principal em Python 
-  ├── README.md
+   - video.mp4 # Vídeo de entrada
+   - detector.py # Script principal em Python
+   - README.md
 
 
 ---
