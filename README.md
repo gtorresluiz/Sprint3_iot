@@ -1,5 +1,8 @@
 # 📌 Projeto: Detector de Olhos Fechados com OpenCV + Node-RED
 
+## Link para vídeo explicativo
+   https://youtu.be/RP7xxf2-40s
+
 ## 🎯 Objetivo
 
 Este projeto tem como finalidade detectar automaticamente quando os olhos de uma pessoa permanecem fechados por mais de 2 segundos em um vídeo, utilizando apenas **Python + OpenCV**. Quando essa condição é atendida, o sistema envia uma **notificação por e-mail** via **Node-RED**.
