@@ -1,7 +1,7 @@
 # 📌 Projeto: Detector de Olhos Fechados com OpenCV + Node-RED
 
 ## Link para vídeo explicativo
-   https://youtu.be/RP7xxf2-40s
+   (https://youtu.be/RP7xxf2-40s?si=J5ymWG0I7MS6uT7J)
 
 ## 🎯 Objetivo
 
